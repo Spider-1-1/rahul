@@ -1,0 +1,19 @@
+body {
+  background-image: url('your-4k-image.jpg'); /* Replace 'your-4k-image.jpg' with the actual path to your 4K image */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #ffffff; /* Set the font color to white */
+  font-size: 18px; /* Set the font size to 18 pixels */
+  font-family: 'Arial', sans-serif; /* Set the font family */
+}
+
+/* Add additional styles for specific elements if needed */
+h1 {
+  font-size: 24px; /* Example: Increase heading font size */
+  color: #ff0000; /* Example: Change heading font color to red */
+}
+
+p {
+  line-height: 1.5; /* Example: Adjust paragraph line height */
+}
